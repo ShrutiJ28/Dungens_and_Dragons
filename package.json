@@ -1,9 +1,9 @@
 {
-  "name": "ecommerce",
+  "name": "game",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://ShrutiJ28.github.io/small_business/",
+  "homepage": "https://ShrutiJ28.github.io/Dungens_and_Dragons/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
