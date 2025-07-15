@@ -24,11 +24,12 @@ A simple React-based application to manage spells for D&D characters. Users can 
  - localStorage (for user & character data)
 
  ## 📂 Project Structure
- 
-src/
+
+    src/
 │
 ├── components/       # UI components like SpellSheet, Login, Register
 ├── pages/            # Page views like Dashboard, CharacterView
 ├── utils/            # Utility functions (e.g., storage handling)
 ├── App.jsx           # Main routing logic
 └── main.jsx          # App entry point
+    
