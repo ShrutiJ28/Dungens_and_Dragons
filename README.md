@@ -23,13 +23,13 @@ A simple React-based application to manage spells for D&D characters. Users can 
  - TailwindCSS
  - localStorage (for user & character data)
 
- ## 📂 Project Structure
+## 📂 Project Structure
 
 src/
-├── components/       # UI components like SpellSheet, Login, Register
-├── pages/            # Page views like Dashboard, CharacterView
-├── utils/            # Utility functions (e.g., storage handling)
-├── App.jsx           # Main routing logic
-└── main.jsx          # App entry point
+├── components/ # UI components like SpellSheet, Login, Register
+├── pages/ # Page views like Dashboard, CharacterView
+├── utils/ # Utility functions (e.g., storage handling)
+├── App.jsx # Main routing logic
+└── main.jsx # App entry point
 
 
