@@ -375,10 +375,10 @@ function SpellSheet() {
                                     </p>
                                 </div>
                                 <button
-                                    onClick={() => deleteSpell(index)}
-                                    className="mt-2 bg-red-600 hover:bg-red-700 px-3 py-1 rounded text-white"
+                                    onClick={() => setExpandedSpellIndex(null)}
+                                    className="mt-2 bg-pink-500 hover:bg-pink-600 text-white px-4 py-1 rounded"
                                 >
-                                    Delete Spell
+                                    Save & Close
                                 </button>
                             </div>
                         )}

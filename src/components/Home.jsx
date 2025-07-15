@@ -58,6 +58,9 @@ function Home() {
           <button onClick={() => alert("We securely store your data locally only.")} className="underline block w-full text-left">
             How we store your data
           </button>
+          <p className="text-xs text-gray-500 text-center mt-8">
+            For inquiries or support, contact <a href="mailto:shrutijiwatode1997@gmail.com" className="underline">shrutijiwatode1997@gmail.com</a>
+          </p>
         </div>
       )}
 
@@ -96,6 +99,7 @@ function Home() {
         Create New Character
       </button>
     </div>
+
   );
 }
 
